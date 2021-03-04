@@ -1,6 +1,5 @@
 # AWS Athena
 Example exercise<br>
-You can find theory about athena in [here](/docs/aws/athena.md)
 
 ## Load the data
 Go to the S3 section on the AWS console
